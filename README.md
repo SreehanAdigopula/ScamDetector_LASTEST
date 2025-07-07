@@ -42,5 +42,5 @@ This model can detector whether a message is scam or not
 - Improvements in accurary
 
 ### Dataset
-- [[SMS Spam Collection, from Kaggle](https://www.kaggle.com/datasets/noorsaeed/scam-detection-dataset/data?source=post_page-----bcd84e36e689---------------------------------------)
+- [SMS Spam Collection, from Kaggle](https://www.kaggle.com/datasets/noorsaeed/scam-detection-dataset/data?source=post_page-----bcd84e36e689---------------------------------------)
 
